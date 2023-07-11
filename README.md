@@ -1,4 +1,4 @@
-# Movement-Part-1
+# Movement-Part-1 Spring 2022
 CS 4150/5150: Game Artificial Intelligence Assignment #1 Movement, Part 1
 
 ### Author: Andy (Xiang-Yu) Cui
