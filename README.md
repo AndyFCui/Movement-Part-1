@@ -1,9 +1,9 @@
 # Movement-Part-1
 CS 4150/5150: Game Artificial Intelligence Assignment #1 Movement, Part 1
 
-# Author: Andy (Xiang-Yu) Cui
-# Northeastern University (Boston)
-# Artificial Intellgence Of Khoury College
+### Author: Andy (Xiang-Yu) Cui
+### Northeastern University (Boston)
+### Artificial Intellgence Of Khoury College
 
 # How to run
 
